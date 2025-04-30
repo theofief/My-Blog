@@ -1,4 +1,5 @@
 # 🌐 Simple Post Viewer
+Published version available [here](https://theofief.github.io/My-Blog/)
 
 **Simple Post Viewer** is a lightweight, responsive web interface that fetches and displays posts from an external API with real-time search, dark mode toggle, and animated sidebar navigation ⚡
 
